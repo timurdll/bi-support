@@ -1,0 +1,39 @@
+.table {
+  margin-top: 10px;
+  padding: auto;
+}
+
+.select-role {
+  min-width: 100px;
+  max-width: 224px;
+  height: 27px;
+  border-radius: 20px;
+  font-size: 10.5px;
+  background-color: black;
+  border: 1px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.select-btn {
+  min-width: 61px;
+  max-width: 201;
+  height: 27px;
+  border-radius: 20px;
+  font-size: 10.5px;
+  background: rgb(245, 247, 249);
+  border: 1px;
+  margin-right: 3px;
+  cursor: pointer;
+}
+
+.table-btn {
+  width: 25.5px;
+  height: 23px;
+  border-radius: 6px;
+  border: 1px;
+  background-color: rgb(245, 247, 249);
+  font-size: 15px;
+  padding-top: 0px;
+  padding-bottom: 8px;
+  cursor: pointer;
+}

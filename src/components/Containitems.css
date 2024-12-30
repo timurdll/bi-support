@@ -1,0 +1,35 @@
+.adm-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.adm-text {
+  margin-top: 0px;
+  display: flex;
+  margin-top: 15px;
+  margin-bottom: 1px;
+  font-size: 3px;
+}
+.comp-select {
+  font-size: 12.5px;
+  width: 20%;
+  height: 38px;
+  background: aliceblue;
+  border-radius: 8px;
+  border: 1px;
+  padding-left: 10px;
+  margin-right: 12px;
+  background-color: rgb(245, 247, 249);
+}
+
+.role-select {
+  font-size: 12.5px;
+  width: 20%;
+  height: 38px;
+  background: aliceblue;
+  border-radius: 8px;
+  border: 1px;
+  padding-left: 10px;
+  background-color: rgb(245, 247, 249);
+}

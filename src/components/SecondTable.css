@@ -1,0 +1,39 @@
+.table2 {
+  margin-top: 10px;
+  padding: auto;
+}
+
+.select-role {
+  min-width: 100px;
+  max-width: 224px;
+  height: 27px;
+  border-radius: 20px;
+  font-size: 10.5px;
+  background: aliceblue;
+  border: 1px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.select-btn {
+  min-width: 61px;
+  max-width: 201;
+  height: 27px;
+  border-radius: 20px;
+  font-size: 10.5px;
+  background: aliceblue;
+  border: 1px;
+  margin-right: 3px;
+  cursor: pointer;
+}
+
+.trashcon {
+  background: rgb(255, 237, 237);
+  border: 1px;
+  font-size: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  margin-left: 10px;
+  padding-left: 3.5px;
+}
